@@ -5,5 +5,5 @@
 
 强化学习分类有很多评判的标准，这里我们大致分为三种，基于策略的、基于价值的和基于Actor-Critic的(基于价值和策略的集合)。
 
-![强化学习分类](pictures/RL Algorithms.png)
+![RL Algorithms](pictures/RL Algorithms.png)
 
